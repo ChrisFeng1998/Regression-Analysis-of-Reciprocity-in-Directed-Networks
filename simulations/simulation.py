@@ -1,6 +1,6 @@
 import numpy as np
 import pandas as pd
-import CLL
+from estimators import CLL
 import os
 
 n = 100
